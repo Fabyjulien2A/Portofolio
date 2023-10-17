@@ -100,6 +100,17 @@
     width: 100%;
     padding: 1rem;
   }
+
+  .contact{
+    background: #F5F5F5;
+  }
+
+  .button{
+    display: flex;
+    background-color: black;
+    color: white;
+
+  }
   
   @media screen and (min-width:750px) {
     .container {
