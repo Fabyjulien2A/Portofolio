@@ -20,9 +20,9 @@
             </div>
             <nav class="navbar ">
               <ul class="menu list-unstyled">
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="portfolio.html">Portfolio</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="index.php">Accueil</a></li>
+                <li><a href="portfolio.php">Portfolio</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
             </nav>
             <div class="right">

@@ -1,3 +1,25 @@
+<?php
+session_start();
+$bdd = new PDO('mysql:host=mysql-fabyjulien.alwaysdata.net;dbname=fabyjulien_portfolio', '319891_faby', 'alwaysdatastudi');
+
+if (isset($_POST['Envoyer'])){
+    if (!empty($_POST['nom']) AND !empty($_POST['prenom']) AND !empty($_POST['email']) AND !empty($_POST['message']) ) {
+    $name = htmlspecialchars($_POST['nom']);
+    $firstName = nl2br(htmlspecialchars($_POST['prenom']));
+    $email = nl2br(htmlspecialchars($_POST['email']));
+    $message = nl2br(htmlspecialchars($_POST['message']));
+
+    $insererContactForm = $bdd->prepare('INSERT INTO users (nom, prenom, email, message)VALUES(?, ?, ?, ?)');
+    $insererContactForm->execute(array($name, $firstName, $email, $message));
+
+    echo "Votre demande a bien été envoyée";
+    }else{
+    echo "Veuillez completer tous les champs";
+    }
+}
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,16 +29,17 @@
     <title>Document</title>
     <script src="./js/style.js" defer></script>
 </head>
-    <header class="header">
+<body>
+   <header class="header">
       <div class="container d-flex">
         <div class="logo">
         
         </div>
         <nav class="navbar ">
           <ul class="menu list-unstyled">
-            <li><a href="index.html">Accueil</a></li>
-            <li><a href="portfolio.html">Portfolio</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="index.php">Accueil</a></li>
+            <li><a href="portfolio.php">Portfolio</a></li>
+            <li><a href="contact.php">Contact</a></li>
           </ul>
         </nav>
         <div class="right">
@@ -71,6 +94,8 @@
       </div>
     </header>
 
+   
+
 
 
     <section id="contact" class="contact">
@@ -82,17 +107,14 @@
               quod!</p>
           </div>
     
-          <form action="" method="POST" class="form">
+          <form action="traitement_formulaire.php" method="POST" class="form">
     
-            <input type="hidden" name="_captcha" value="false">
-            <input type="text" name="_honey" style="display:none">
-            <input type="hidden" name="_next" value="">
     
-            <label for="firstname">
-              <input type="text" name="firstname" id="firstname" placeholder="Nom" required>
+            <label for="name">
+              <input type="text" name="nom" id="name" placeholder="Nom" required>
             </label>
-            <label for="lastname">
-              <input type="text" name="lastname" id="lastname" placeholder="Prénom">
+            <label for="firstname">
+              <input type="text" name="prenom" id="firstname" placeholder="Prénom">
             </label>
             <label for="email">
               <input type="email" name="email" id="email" placeholder="Email" required>
@@ -102,20 +124,6 @@
           </form>
         </div>
       </section>
-
-<body>
-    
-
-
-
-
-
-
-
-
-
-
-
 
 
   <footer>
@@ -180,3 +188,5 @@
 
 </body>
 </html>
+
+
