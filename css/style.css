@@ -111,6 +111,11 @@
     color: white;
 
   }
+
+  .mon-espace{
+    display: flex;
+    
+  }
   
   @media screen and (min-width:750px) {
     .container {

@@ -10,6 +10,6 @@
         <h1>Confirmation de Formulaire</h1>
         <p>Merci pour votre message ! Nous avons bien reçu vos informations et nous vous répondrons bientôt.</p>
     </div>
-    <a href="index.php"><button>Retour page d'accueil</button></a>
+    <a href="../index.php"><button>Retour page d'accueil</button></a>
 </body>
 </html>

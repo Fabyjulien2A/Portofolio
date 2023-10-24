@@ -29,6 +29,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "Erreur d'insertion : " . $e->getMessage();
     }
 }
+
+
 ?>
 
 
