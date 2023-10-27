@@ -13,8 +13,8 @@
 
     <div class="container">
         <?php
-        $bdd = new PDO('mysql:host=mysql-fabyjulien.alwaysdata.net;dbname=fabyjulien_portfolio', '319891_faby', 'alwaysdatastudi');
-        $recupInfosForm = $bdd->query('SELECT * FROM users');
+        $bdd = new PDO('mysql:host=mysql-fabyjulien.alwaysdata.net;dbname=fabyjulien_curriculumvitae', '319891', 'alwaysdatastudi');
+        $recupInfosForm = $bdd->query('SELECT * FROM contact');
         while ($infosForm = $recupInfosForm->fetch()) {
         ?>
             <div class="contact">

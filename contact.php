@@ -1,6 +1,6 @@
 <?php
 session_start();
-$bdd = new PDO('mysql:host=mysql-fabyjulien.alwaysdata.net;dbname=fabyjulien_portfolio', '319891_faby', 'alwaysdatastudi');
+$bdd = new PDO('mysql:host=mysql-fabyjulien.alwaysdata.net;dbname=fabyjulien_curriculumvitae', '319891', 'alwaysdatastudi');
 
 if (isset($_POST['Envoyer'])){
     if (!empty($_POST['nom']) AND !empty($_POST['prenom']) AND !empty($_POST['email']) AND !empty($_POST['message']) ) {
@@ -9,7 +9,7 @@ if (isset($_POST['Envoyer'])){
     $email = nl2br(htmlspecialchars($_POST['email']));
     $message = nl2br(htmlspecialchars($_POST['message']));
 
-    $insererContactForm = $bdd->prepare('INSERT INTO users (nom, prenom, email, message)VALUES(?, ?, ?, ?)');
+    $insererContactForm = $bdd->prepare('INSERT INTO contact (nom, prenom, email, message)VALUES(?, ?, ?, ?)');
     $insererContactForm->execute(array($name, $firstName, $email, $message));
 
     echo "Votre demande a bien été envoyée";

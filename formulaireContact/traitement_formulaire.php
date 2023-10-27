@@ -9,14 +9,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Connexion à la base de données
     try {
-        $bdd = new PDO('mysql:host=mysql-fabyjulien.alwaysdata.net;dbname=fabyjulien_portfolio', '319891_faby', 'alwaysdatastudi');
+        $bdd = new PDO('mysql:host=mysql-fabyjulien.alwaysdata.net;dbname=fabyjulien_curriculumvitae', '319891', 'alwaysdatastudi');
         $bdd->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); // Activation de la gestion des erreurs
     } catch (PDOException $e) {
         die("Erreur de connexion à la base de données : " . $e->getMessage());
     }
 
     // Préparer la requête SQL d'insertion
-    $insertionSQL = "INSERT INTO users (nom, prenom, email, message) VALUES (?, ?, ?, ?)";
+    $insertionSQL = "INSERT INTO contact (nom, prenom, email, message) VALUES (?, ?, ?, ?)";
     
     // Exécuter la requête SQL
     try {
