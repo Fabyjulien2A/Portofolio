@@ -53,7 +53,7 @@
               <div class="hero__item left">
                 <span>Développeur Web en formation</span>
                 <h1 class="title">Bonjour, Je m'appelle Julien Faby</h1>
-                <a href="downloads/CV.pdf" download>Télécharger mon CV</a>
+                <a href="downloads\CV-Faby_Julien.pdf" download>Télécharger mon CV</a>
 
               </div>
               <div class="hero__item right">
@@ -75,8 +75,7 @@
               <div class="grid__item">
                 <h2 class="section-title">A propos</h2>
                 <h3>Qui suis-je ?</h3>
-                <p>Passionné par le developpement web, <strong>je suis en formation chez Studi qui est une école en ligne</strong>,
-                 mon objectif est d'obtenir mon diplome pour pouvoir travailler dans ce domaine.
+                <p>Passionné par le developpement web, récemment diplômé en développement web et web mobile je recherche une entreprise où je pourrai mettre en pratique mes connaissances tout en développant mes compétences, dans un environnement propice à la collaboration et à la croissance professionnelle.
                 </p>
               </div>
             </div>
