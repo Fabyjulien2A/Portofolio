@@ -2,6 +2,14 @@
 session_start();
 $bdd = new PDO('mysql:host=mysql-fabyjulien.alwaysdata.net;dbname=fabyjulien_curriculumvitae', '319891', 'alwaysdatastudi');
 
+if (!isset($_SESSION['csrf_token'])) {
+  $token = bin2hex(random_bytes(32));
+  $_SESSION['csrf_token'] = $token;
+} else {
+  $token = $_SESSION['csrf_token'];
+}
+
+
 if (isset($_POST['Envoyer'])){
     if (!empty($_POST['nom']) AND !empty($_POST['prenom']) AND !empty($_POST['email']) AND !empty($_POST['message']) ) {
     $name = htmlspecialchars($_POST['nom']);
@@ -73,9 +81,8 @@ if (isset($_POST['Envoyer'])){
         <div class="container">
           <div class="section-header">
             <h2 class="section-title">Contact</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius eos dolore obcaecati perspiciatis. Eos neque
-              similique placeat doloremque cupiditate, ut vero autem officia repellat explicabo, doloribus vel? Culpa, fuga
-              quod!</p>
+            <p>Pour me contacter veuillez remplir ce formulaire.<br>Merci
+            </p>
           </div>
     
           <form action="formulaireContact\traitement_formulaire.php" method="POST" class="form">
@@ -91,6 +98,8 @@ if (isset($_POST['Envoyer'])){
               <input type="email" name="email" id="email" placeholder="Email" required>
             </label>
             <textarea name="message" id="message" placeholder="Message"></textarea>
+                 <!-- CSRF -->
+            <input type="hidden" name="csrf_token" value="<?php echo $token; ?>">
             <input type="submit" class="btn" value="Envoyer">
           </form>
         </div>

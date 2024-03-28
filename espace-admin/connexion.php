@@ -1,22 +1,36 @@
 <?php
 session_start();
-if (isset($_POST['valider'])){
-    if (!empty($_POST['pseudo']) AND !empty($_POST['mdp'])){
-        $pseudo_par_defaut = "admin" ;
-        $mdp_par_defaut = "admin1234" ;
+$bdd = new PDO('mysql:host=mysql-fabyjulien.alwaysdata.net;dbname=fabyjulien_curriculumvitae', '319891', 'alwaysdatastudi');
 
-        $pseudo_saisi = htmlspecialchars($_POST['pseudo']);
-        $mdp_saisi = htmlspecialchars($_POST['mdp']);
+if (isset($_POST['connexion'])) {
+    if (!empty($_POST['email']) && !empty($_POST['mdp'])) {
+        $email = htmlspecialchars($_POST['email']);
+        $password = $_POST['mdp'];
 
-        if ($pseudo_saisi == $pseudo_par_defaut AND $mdp_saisi == $mdp_par_defaut){
-        $_SESSION['mdp'] = $mdp_saisi;
-        header('location:espace_admin.php');
-        }else{
-            echo "Votre mot de passe ou pseudo est incorrect";
+        $recupUser = $bdd->prepare('SELECT * FROM users WHERE email = ?');
+        $recupUser->execute([$email]);
+
+        if ($recupUser->rowCount() > 0) {
+            $utilisateur = $recupUser->fetch();
+
+            if (hash('sha256', $password) === $utilisateur['mdp']) {
+                $_SESSION['email'] = $email;
+                $_SESSION['mdp'] = $utilisateur['mdp'];
+                $_SESSION['id'] = $utilisateur['id'];
+                $_SESSION['role'] = $utilisateur['role'];
+
+                
+                if ($utilisateur['role'] == 'administrateur') {
+                    header('location: espace_admin.php');  
+                }
+            } else {
+                $error = "Mot de passe incorrect.";
+            }
+        } else {
+            $error = "Adresse email non trouvée.";
         }
-
-    }else{
-        echo "Veuillez completer tous les champs...";
+    } else {
+        $error = "Veuillez remplir tous les champs.";
     }
 }
 ?>
@@ -32,24 +46,24 @@ if (isset($_POST['valider'])){
 <body>
 <div class="container-fluid">
         <div>
-            <form method="post" action="">
-                <h2>Connexion</h2>
-                <div class="mb-3">
-                    <input type="text" class="form-control" name="pseudo" placeholder="Pseudo" required autocomplete="off">
-                </div>
-                <div class="mb-3">
-                    <input type="password" class="form-control" name="mdp" placeholder="Mot de passe" required>
-                </div>
-                <div class="mb-3">
-                    <input type="submit" class="btn btn-primary" name="valider" value="Se connecter">
-                </div>
-                <?php
-                
-                if (isset($error)) {
-                    echo "<p class='text-danger'>$error</p>";
-                }
-                ?>
-            </form>
+        <form method="post" action="">
+    <h2>Connexion</h2>
+    <div class="mb-3">
+        <input type="text" class="form-control" name="email" placeholder="Email" required autocomplete="off">
+    </div>
+    <div class="mb-3">
+        <input type="password" class="form-control" name="mdp" placeholder="Mot de passe" required>
+    </div>
+    <div class="mb-3">
+        <input type="submit" class="btn btn-primary" name="connexion" value="Se connecter">
+    </div>
+    <?php
+    if (isset($error)) {
+        echo "<p class='text-danger'>$error</p>";
+    }
+    ?>
+</form>
+
             <a href="../index.php" class="btn btn-secondary">Retour site</a>
         </div>
     </div>

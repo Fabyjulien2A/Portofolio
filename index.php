@@ -85,8 +85,6 @@
           <div class="container">
             <div class="section-header">
               <h2 class="section-title">Mes services</h2>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius eos dolore obcaecati perspiciatis. Eos neque
-                si!</p>
             </div>
             <div class="grid">
               <div class="grid__item">
@@ -102,10 +100,6 @@
                   </div>
                   <div class="service__content">
                     <h3>GESTION DE PROJETS WEB</h3>
-                    <p>
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Molestiae vero sed similique
-                    </p>
                   </div>
                 </div>
       
@@ -121,10 +115,6 @@
                   </div>
                   <div class="service__content">
                     <h3>INTÉGRATION WEB</h3>
-                    <p>
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Molestiae vero sed similique
-                    </p>
                   </div>
                 </div>
       
@@ -140,10 +130,6 @@
                   </div>
                   <div class="service__content">
                     <h3>DÉVELOPPEMENTS SPÉCIFIQUES</h3>
-                    <p>
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Molestiae vero sed similique
-                    </p>
                   </div>
                 </div>
       
@@ -159,10 +145,6 @@
                   </div>
                   <div class="service__content">
                     <h3>RÉFÉRENCEMENT NATUREL</h3>
-                    <p>
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Molestiae vero sed similique
-                    </p>
                   </div>
                 </div>
               </div>
@@ -179,10 +161,6 @@
                   </div>
                   <div class="service__content">
                     <h3>CONCEPTION GRAPHIQUE & WEBDESIGN</h3>
-                    <p>
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Molestiae vero sed similique
-                    </p>
                   </div>
                 </div>
       
@@ -198,10 +176,6 @@
                   </div>
                   <div class="service__content">
                     <h3>DYNAMISME DES PAGES</h3>
-                    <p>
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Molestiae vero sed similique
-                    </p>
                   </div>
                 </div>
       
@@ -217,10 +191,6 @@
                   </div>
                   <div class="service__content">
                     <h3>INTERFACE D'ADMINISTRATION</h3>
-                    <p>
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Molestiae vero sed similique
-                    </p>
                   </div>
                 </div>
       
@@ -236,10 +206,6 @@
                   </div>
                   <div class="service__content">
                     <h3>RESPONSIVE DESIGN</h3>
-                    <p>
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Molestiae vero sed similique
-                    </p>
                   </div>
                 </div>
               </div>
@@ -256,61 +222,43 @@
             </div>
             <div class="grid">
               <div class="grid__item">
-                <h3>Domaines de compétences</h3>
-                <ul class="list-unstyled">
-                  <li>
-                    <h4>Compétence</h4>
-                    <p>Description de la compétence</p>
-                  </li>
-                  <li>
-                    <h4>Compétence</h4>
-                    <p>Description de la compétence</p>
-                  </li>
-                  <li>
-                    <h4>Compétence</h4>
-                    <p>Description de la compétence</p>
-                  </li>
-                  <li>
-                    <h4>Compétence</h4>
-                    <p>Description de la compétence</p>
-                  </li>
-                  <li>
-                    <h4>Compétence</h4>
-                    <p>Description de la compétence</p>
-                  </li>
-                  <li>
-                    <h4>Compétence</h4>
-                    <p>Description de la compétence</p>
-                  </li>
-                  <li>
-                    <h4>Compétence</h4>
-                    <p>Description de la compétence</p>
-                  </li>
-                </ul>
               </div>
               <div class="grid__item">
                 <h3>Compétences en développement</h3>
                 <div class="progressbar">
                   <div class="bar" data-width="100">HTML</div>
                 </div>
+                <br>
+
                 <div class="progressbar">
                   <div class="bar" data-width="90">CSS</div>
                 </div>
+                <br>
+
                 <div class="progressbar">
                   <div class="bar" data-width="85">JAVASCRIPT</div>
                 </div>
+                <br>
+
                 <div class="progressbar">
                   <div class="bar" data-width="95">PHP</div>
                 </div>
+                <br>
+
                 <div class="progressbar">
                   <div class="bar" data-width="40">NODE</div>
                 </div>
+                <br>
+
                 <div class="progressbar">
                   <div class="bar" data-width="40">REACT</div>
-                </div>
+                </div><br>
+
                 <div class="progressbar">
                   <div class="bar" data-width="80">WORDPRESS</div>
                 </div>
+                <br>
+                
                 <h3>Compétences en conception graphique</h3>
                 <div class="progressbar">
                   <div class="bar" data-width="100">Visual paradigm</div>
