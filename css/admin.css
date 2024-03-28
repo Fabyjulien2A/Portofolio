@@ -18,3 +18,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 background-attachment: fixed;
 background-size: cover;
 }
+
+
+.body-connexion{
+    background-image: url('../images/pexels-photo-270348.jpg');
+
+}

@@ -51,7 +51,6 @@
           <div class="container">
             <div class="grid">
               <div class="hero__item left">
-                <span>Développeur Web en formation</span>
                 <h1 class="title">Bonjour, Je m'appelle Julien Faby</h1>
                 <a href="downloads\CV-Faby_Julien.pdf" download>Télécharger mon CV</a>
 
@@ -213,7 +212,7 @@
           </div>
       
         </section>
-        <section id="skills" class="skills">
+        <section id="skills-section" class="skills">
           <div class="container">
             <div class="section-header">
               <h2 class="section-title">Mes compétences</h2>
