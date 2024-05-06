@@ -193,10 +193,9 @@
                         <h5 class="h3">Technologies</h5>
     
                         <ul>
-                          <li>HTML, CSS</li>
+                          <li>HTML</li>
+                          <li>CSS</li>
                           <li>Javascript</li>
-                          <li>PHP</li>
-                          <li>MySQL</li>
                         </ul>
                       </div>
                     </div>

@@ -52,8 +52,7 @@
             <div class="grid">
               <div class="hero__item left">
                 <h1 class="title">Bonjour, Je m'appelle Julien Faby</h1>
-                <a href="downloads\CV-Faby_Julien.pdf" download>Télécharger mon CV</a>
-
+                <button class="download-button"><a href="downloads\CV-Faby_julien.pdf" download>Télécharger mon CV</a></button>         
               </div>
               <div class="hero__item right">
                 <div class="hero__avatar">

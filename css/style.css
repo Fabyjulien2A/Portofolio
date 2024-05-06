@@ -32,6 +32,25 @@
     font-weight: 500;
     line-height: 1;
   }
+
+  .download-button {
+    background-color: #4CAF50; /* Couleur de fond du bouton */
+    color: white; /* Couleur du texte */
+    padding: 15px 25px; /* Espacement intérieur du bouton */
+    border: none; /* Suppression de la bordure */
+    border-radius: 5px; /* Arrondi des coins */
+    cursor: pointer; /* Curseur pointeur au survol */
+    font-size: 16px; /* Taille de la police */
+  }
+  
+  .download-button a {
+    text-decoration: none; /* Suppression du soulignement du lien */
+    color: inherit; /* Héritage de la couleur du texte */
+  }
+  
+  .download-button:hover {
+    background-color: #45a049; /* Changement de couleur au survol */
+  }
   
   h1,
   .h1 {
