@@ -50,21 +50,9 @@
       <section id="portfolio" class="portfolio">
         <div class="container">
           <div class="section-header">
-            <h2 class="section-title">Porfolio</h2>
+            <h2 class="section-title">Mes projets</h2>
           </div>
           <ul class="grid portfolio-filters list-unstyled">
-            <li class="grid__item">
-              <a href="" class="active" data-filter="all">Tous les projets</a>
-            </li>
-            <li class="grid__item">
-              <a href="" data-filter="web">Développement web</a>
-            </li>
-            <li class="grid__item">
-              <a href="" data-filter="design">Refonte Graphique</a>
-            </li>
-            <li class="grid__item">
-              <a href="" data-filter="app">Applications</a>
-            </li>
           </ul>
           <div class="grid">
             <div class="grid__item">
