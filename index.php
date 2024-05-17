@@ -4,6 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Découvrez le portfolio de Julien Faby développeur web junior">
         <title>Julien Faby - Developpeur WEB</title>
         <link rel="stylesheet" href="./css/style.css">
         <script src="./js/style.js" defer></script>
@@ -56,10 +57,8 @@
                 <button class="download-button"><a href="downloads\CV-Faby_julien.pdf" download>Télécharger mon CV</a></button>         
               </div>
               <div class="hero__item right">
-                <div class="hero__avatar">
-                  <img src="./images/pictureHeader.jpg" width="400" height="400" loading="lazy"
-                    alt="Avatar John Doe - Développeur web freelance">
-                </div>
+                  <img class= "img-header" src="./images/pictureHeader.jpg"
+                    alt="Photo profil - Développeur web junior">     
               </div>
             </div>
           </div>
@@ -69,7 +68,7 @@
           <div class="container">
             <div class="grid">
               <div class="grid__item">
-                <img src="./images/photoProfil.jpg" width="560" height="453" loading="lazy"
+                <img class="img-profil" src="./images/photoProfil.jpg" width="560" height="453" loading="lazy"
                   alt="John Doe - Développeur web freelance">
               </div>
               <div class="grid__item">
@@ -85,12 +84,16 @@
         <section id="competences-section" class="competences">
           <div class="container">
             <h2 class="section-title">Mes compétences</h2>
-            <img src="images/icones/icons8-html-96.png" alt="">
-            <img src="images/icones/icons8-css-100.png" alt="">
-            <img src="images/icones/icons8-javascript-96.png" alt="">
-            <img src="images/icones/icons8-php-80.png" alt="">
-            <img src="images/icones/icons8-mysql-96.png" alt="">
-          
+            <img class="logo-competences" src="images/icones/icons8-html-96.png" alt="logo-html">
+            <img class="logo-competences" src="images/icones/icons8-css-100.png" alt="logo-css">
+            <img class="logo-competences" src="images/icones/icons8-javascript-96.png" alt="logo-javascript">
+            <img class="logo-competences" src="images/icones/icons8-react-80.png" alt="logo-react">
+            <img class="logo-competences" src="images/icones/icons8-php-80.png" alt="logo-php">
+            <img class="logo-competences" src="images/icones/icons8-laravel-96.png" alt="logo-laravel">
+            <img class="logo-competences" src="images/icones/icons8-mysql-96.png" alt="">
+            <img class="logo-competences" src="images/icones/icons8-maria-db-96.png" alt="">
+            <img class="logo-competences" src="images/icones/icons8-mongodb-96.png" alt="">
+            <img class="logo-competences" src="images/icones/icons8-wordpress-94.png" alt="">
   
           </div>
       
@@ -151,7 +154,7 @@
                 </ul>
               </div>
               <div class="grid__item">
-                <p>Copyright © 2023.</p>
+                <p>Copyright © 2024.</p>
               </div>
             </div>
           </div>

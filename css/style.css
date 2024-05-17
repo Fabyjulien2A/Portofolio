@@ -21,6 +21,8 @@ body {
   background: var(--background-body);
 }
 
+
+
 h1,
 h2,
 h3,
@@ -72,10 +74,24 @@ a {
   text-decoration: none;
 }
 
-img {
-  max-width: 300px;
+.img-profil {
+width: 350px;
+height: 400px;
+}
+
+.img-header{
+  border-radius: 100%;
+  max-width: 400px;
   height: auto;
 }
+
+.logo-competences{
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
 
 ul {
   padding-left: 2rem;
@@ -98,9 +114,7 @@ li {
   color: #5b6c78;
 }
 
-.container {
-  padding: 1rem 2rem;
-}
+
 
 .d-flex {
   display: flex;
@@ -358,10 +372,6 @@ section {
   animation-name: slideInRight;
 }
 
-.hero__avatar img {
-  width: 100%;
-  ;
-}
 
 @media screen and (max-width:749px) {
   .hero__item.left {
