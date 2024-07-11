@@ -61,7 +61,7 @@
                     alt="Photo profil - Développeur web junior">     
               </div>
             </div>
-          </div>s
+          </div>
         </section>
 
         <section id="about" class="about">
