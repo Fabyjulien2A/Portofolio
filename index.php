@@ -74,8 +74,7 @@
               <div class="grid__item">
                 <h2 class="section-title">A propos</h2>
                 <h3>Qui suis-je ?</h3>
-                <p>Passionné par le developpement web, récemment diplômé en développement web et web mobile je recherche une entreprise où je pourrai mettre en pratique mes connaissances tout en développant mes compétences, dans un environnement propice à la collaboration et à la croissance professionnelle.
-                </p>
+                <p>Passionné par le développement web, je suis récemment diplômé en développement web et web mobile. Je suis à la recherche d'une entreprise dynamique où je pourrais non seulement mettre en pratique mes connaissances, mais aussi continuer à développer mes compétences dans un environnement propice à la collaboration et à la croissance professionnelle. Ayant une préférence marquée pour le développement de sites avec WordPress, je souhaite contribuer à la création de solutions web innovantes et performantes.</p>
               </div>
             </div>
           </div>

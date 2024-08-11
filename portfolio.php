@@ -968,6 +968,134 @@
           </div>
         </div>
 
+        <!-- Carte projet wordpress n°11 -->
+
+        <div class="grid__item">
+          <div class="card" data-category="wordpress">
+            <img src="images\images-modeElegante\Capture d'écran 2024-08-11 134647.png" loading="lazy" width="365"
+              height="243" alt="Projet WordPress 9" class="card__image">
+            <div class="card__inner">
+              <h3 class="card__title">Projet WordPress 11</h3>
+              <p class="category">Site Marchand : Boutique de vêtements</p>
+            </div>
+            <div class="card__overlay">
+              <a href="#" class="card__link" data-id="modal-111">+</a>
+            </div>
+          </div>
+          <div class="modal" id="modal-111">
+            <button class="modal__close">&times;</button>
+
+            <div class="modal__content">
+              <div class="container">
+                <div class="grid">
+                  <div class="grid__item">
+                    <img src="images\images-modeElegante\Capture d'écran 2024-08-11 134647.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 11" />
+                    <img src="images\images-modeElegante\Capture d'écran 2024-08-11 134700.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 11" />
+                    <img src="images\images-modeElegante\Capture d'écran 2024-08-11 134926.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 11" />
+                    <img src="images\images-modeElegante\Capture d'écran 2024-08-11 134941.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 11" />
+
+                  </div>
+                  <div class="grid__item">
+                    <h4 class="modal__title h2">Mode Elégante</h4>
+                    <p>
+                      <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
+                        data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor"
+                          d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z">
+                        </path>
+                      </svg>
+                      <i>Année : 2024</i>
+                    </p>
+                    <p class="category">
+                      <a href="https://darkblue-chinchilla-582008.hostingersite.com/">
+                        <h5>Lien site</h5>
+                      </a>
+                    </p>
+                    <h5 class="h3">Informations</
+                    </p>
+
+                    <h5 class="h3">Technologies</h5>
+
+                    <ul>
+                      <li>WordPress</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Carte projet wordpress n°12 -->
+
+        <div class="grid__item">
+          <div class="card" data-category="wordpress">
+            <img src="images\images-modeEstivale\Capture d'écran 2024-08-11 135728.png" loading="lazy" width="365"
+              height="243" alt="Projet WordPress 9" class="card__image">
+            <div class="card__inner">
+              <h3 class="card__title">Projet WordPress 12</h3>
+              <p class="category">Site Marchand : Boutique de vêtements</p>
+            </div>
+            <div class="card__overlay">
+              <a href="#" class="card__link" data-id="modal-112">+</a>
+            </div>
+          </div>
+          <div class="modal" id="modal-112">
+            <button class="modal__close">&times;</button>
+
+            <div class="modal__content">
+              <div class="container">
+                <div class="grid">
+                  <div class="grid__item">
+                    <img src="images\images-modeEstivale\Capture d'écran 2024-08-11 135728.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 12" />
+                    <img src="images\images-modeEstivale\Capture d'écran 2024-08-11 135745.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 12" />
+                    <img src="images\images-modeEstivale\Capture d'écran 2024-08-11 135753.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 12" />
+                  </div>
+                  <div class="grid__item">
+                    <h4 class="modal__title h2">ModeEstivale</h4>
+                    <p>
+                      <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
+                        data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor"
+                          d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z">
+                        </path>
+                      </svg>
+                      <i>Année : 2024</i>
+                    </p>
+                    <p class="category">
+                      <a href="https://skyblue-alligator-346835.hostingersite.com/">
+                        <h5>Lien site</h5>
+                      </a>
+                    </p>
+                    <h5 class="h3">Informations</
+                    </p>
+
+                    <h5 class="h3">Technologies</h5>
+
+                    <ul>
+                      <li>WordPress</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
         <!-- Ajoutez plus de cartes de projet WordPress selon vos besoins -->
       </div>
     </div>
