@@ -713,18 +713,18 @@
               <div class="container">
                 <div class="grid">
                   <div class="grid__item">
-                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205731.png" loading="lazy"
-                      width="560" height="373" class="card__image" alt="Projet WordPress 7" />
-                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205003.png" loading="lazy"
-                      width="560" height="373" class="card__image" alt="Projet WordPress 7" />
-                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205012.png" loading="lazy"
-                      width="560" height="373" class="card__image" alt="Projet WordPress 7" />
-                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205024.png" loading="lazy"
-                      width="560" height="373" class="card__image" alt="Projet WordPress 7" />
-                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205034.png" loading="lazy"
-                      width="560" height="373" class="card__image" alt="Projet WordPress 7" />
-                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205055.png" loading="lazy"
-                      width="560" height="373" class="card__image" alt="Projet WordPress 7" />
+                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205731.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 7" />
+                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205003.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 7" />
+                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205012.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 7" />
+                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205024.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 7" />
+                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205034.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 7" />
+                    <img src="images\images-immoplus\Capture d'écran 2024-08-10 205055.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 7" />
 
                   </div>
                   <div class="grid__item">
@@ -1016,7 +1016,7 @@
                         <h5>Lien site</h5>
                       </a>
                     </p>
-                    <h5 class="h3">Informations</
+                    <h5 class="h3">Informations</h5>
                     </p>
 
                     <h5 class="h3">Technologies</h5>
@@ -1076,7 +1076,7 @@
                         <h5>Lien site</h5>
                       </a>
                     </p>
-                    <h5 class="h3">Informations</
+                    <h5 class="h3">Informations</h5>
                     </p>
 
                     <h5 class="h3">Technologies</h5>
@@ -1090,6 +1090,498 @@
             </div>
           </div>
         </div>
+
+        <!-- Carte projet wordpress n°13 -->
+
+        <div class="grid__item">
+          <div class="card" data-category="wordpress">
+            <img src="images\image-emeraude\Capture d'écran 2024-08-11 204044.png" loading="lazy" width="365"
+              height="243" alt="Projet WordPress 13" class="card__image">
+            <div class="card__inner">
+              <h3 class="card__title">Projet WordPress 13</h3>
+              <p class="category">Site Marchand : Hotel </p>
+            </div>
+            <div class="card__overlay">
+              <a href="#" class="card__link" data-id="modal-113">+</a>
+            </div>
+          </div>
+          <div class="modal" id="modal-113">
+            <button class="modal__close">&times;</button>
+
+            <div class="modal__content">
+              <div class="container">
+                <div class="grid">
+                  <div class="grid__item">
+                    <img src="images\image-emeraude\Capture d'écran 2024-08-11 204044.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 13" />
+                    <img src="images\image-emeraude\Capture d'écran 2024-08-11 204103.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 13" />
+                    <img src="images\image-emeraude\Capture d'écran 2024-08-11 204117.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 13" />
+                  </div>
+                  <div class="grid__item">
+                    <h4 class="modal__title h2">Elegance Emeraude</h4>
+                    <p>
+                      <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
+                        data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor"
+                          d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z">
+                        </path>
+                      </svg>
+                      <i>Année : 2024</i>
+                    </p>
+                    <p class="category">
+                      <a href="https://yellowgreen-porcupine-662594.hostingersite.com/">
+                        <h5>Lien site</h5>
+                      </a>
+                    </p>
+                    <h5 class="h3">Site Marchand : Hotel </h5>
+                    </p>
+
+                    <h5 class="h3">Technologies</h5>
+
+                    <ul>
+                      <li>WordPress</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- Carte projet wordpress n°14 -->
+
+        <div class="grid__item">
+          <div class="card" data-category="wordpress">
+            <img src="images\images-luxe-et-confort\Capture d'écran 2024-08-11 204549.png" loading="lazy" width="365"
+              height="243" alt="Projet WordPress 14" class="card__image">
+            <div class="card__inner">
+              <h3 class="card__title">Projet WordPress 14</h3>
+              <p class="category">Site Marchand : Hotel </p>
+            </div>
+            <div class="card__overlay">
+              <a href="#" class="card__link" data-id="modal-114">+</a>
+            </div>
+          </div>
+          <div class="modal" id="modal-114">
+            <button class="modal__close">&times;</button>
+
+            <div class="modal__content">
+              <div class="container">
+                <div class="grid">
+                  <div class="grid__item">
+                    <img src="images\images-luxe-et-confort\Capture d'écran 2024-08-11 204549.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 14" />
+                    <img src="images\images-luxe-et-confort\Capture d'écran 2024-08-11 204603.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 14" />
+                    <img src="images\images-luxe-et-confort\Capture d'écran 2024-08-11 204631.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 14" />
+                  </div>
+                  <div class="grid__item">
+                    <h4 class="modal__title h2">Luxe et Confort</h4>
+                    <p>
+                      <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
+                        data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor"
+                          d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z">
+                        </path>
+                      </svg>
+                      <i>Année : 2024</i>
+                    </p>
+                    <p class="category">
+                      <a href="https://springgreen-starling-598938.hostingersite.com/">
+                        <h5>Lien site</h5>
+                      </a>
+                    </p>
+                    <h5 class="h3">Site Marchand : Hotel </h5>
+                    </p>
+
+                    <h5 class="h3">Technologies</h5>
+
+                    <ul>
+                      <li>WordPress</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Carte projet wordpress n°15 -->
+
+        <div class="grid__item">
+          <div class="card" data-category="wordpress">
+            <img src="images\images-restaurant-artiste\Capture d'écran 2024-08-11 210035.png" loading="lazy" width="365"
+              height="243" alt="Projet WordPress 15" class="card__image">
+            <div class="card__inner">
+              <h3 class="card__title">Projet WordPress 15</h3>
+              <p class="category">Site Marchand : Restaurant</p>
+            </div>
+            <div class="card__overlay">
+              <a href="#" class="card__link" data-id="modal-115">+</a>
+            </div>
+          </div>
+          <div class="modal" id="modal-115">
+            <button class="modal__close">&times;</button>
+
+            <div class="modal__content">
+              <div class="container">
+                <div class="grid">
+                  <div class="grid__item">
+                    <img src="images\images-restaurant-artiste\Capture d'écran 2024-08-11 210035.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 15" />
+                    <img src="images\images-restaurant-artiste\Capture d'écran 2024-08-11 210117.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 15" />
+                    <img src="images\images-restaurant-artiste\Capture d'écran 2024-08-11 210133.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 15" />
+                  </div>
+                  <div class="grid__item">
+                    <h4 class="modal__title h2">La table des artistes</h4>
+                    <p>
+                      <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
+                        data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor"
+                          d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z">
+                        </path>
+                      </svg>
+                      <i>Année : 2024</i>
+                    </p>
+                    <p class="category">
+                      <a href="https://blanchedalmond-flamingo-515787.hostingersite.com/">
+                        <h5>Lien site</h5>
+                      </a>
+                    </p>
+                    <h5 class="h3">Site Marchand : Restaurant</h5>
+                    </p>
+
+                    <h5 class="h3">Technologies</h5>
+
+                    <ul>
+                      <li>WordPress</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Carte projet wordpress n°16 -->
+
+        <div class="grid__item">
+          <div class="card" data-category="wordpress">
+            <img src="images\images-restaurant-epicurienne\Capture d'écran 2024-08-11 210759.png" loading="lazy"
+              width="365" height="243" alt="Projet WordPress 16" class="card__image">
+            <div class="card__inner">
+              <h3 class="card__title">Projet WordPress 16</h3>
+              <p class="category">Site Marchand : Restaurant</p>
+            </div>
+            <div class="card__overlay">
+              <a href="#" class="card__link" data-id="modal-116">+</a>
+            </div>
+          </div>
+          <div class="modal" id="modal-116">
+            <button class="modal__close">&times;</button>
+
+            <div class="modal__content">
+              <div class="container">
+                <div class="grid">
+                  <div class="grid__item">
+                    <img src="images\images-restaurant-epicurienne\Capture d'écran 2024-08-11 210759.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 16" />
+                    <img src="images\images-restaurant-epicurienne\Capture d'écran 2024-08-11 210816.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 16" />
+                    <img src="images\images-restaurant-epicurienne\Capture d'écran 2024-08-11 210834.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 16" />
+                    <img src="images\images-restaurant-epicurienne\Capture d'écran 2024-08-11 210859.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 16" />
+                  </div>
+                  <div class="grid__item">
+                    <h4 class="modal__title h2">La Table Epicurienne</h4>
+                    <p>
+                      <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
+                        data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor"
+                          d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z">
+                        </path>
+                      </svg>
+                      <i>Année : 2024</i>
+                    </p>
+                    <p class="category">
+                      <a href="https://firebrick-cattle-888553.hostingersite.com/ ">
+                        <h5>Lien site</h5>
+                      </a>
+                    </p>
+                    <h5 class="h3">Site Marchand : Restaurant</h5>
+                    </p>
+
+                    <h5 class="h3">Technologies</h5>
+
+                    <ul>
+                      <li>WordPress</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Carte projet wordpress n°17 -->
+
+        <div class="grid__item">
+          <div class="card" data-category="wordpress">
+            <img src="images\images-pro-immobilier\Capture d'écran 2024-08-11 211745.png" loading="lazy" width="365"
+              height="243" alt="Projet WordPress 17" class="card__image">
+            <div class="card__inner">
+              <h3 class="card__title">Projet WordPress 17</h3>
+              <p class="category">Site Marchand : Agence immobilière</p>
+            </div>
+            <div class="card__overlay">
+              <a href="#" class="card__link" data-id="modal-117">+</a>
+            </div>
+          </div>
+          <div class="modal" id="modal-117">
+            <button class="modal__close">&times;</button>
+
+            <div class="modal__content">
+              <div class="container">
+                <div class="grid">
+                  <div class="grid__item">
+                    <img src="images\images-pro-immobilier\Capture d'écran 2024-08-11 211745.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 17" />
+                    <img src="images\images-pro-immobilier\Capture d'écran 2024-08-11 211758.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 17" />
+                    <img src="images\images-pro-immobilier\Capture d'écran 2024-08-11 211811.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 17" />
+                    <img src="images\images-pro-immobilier\Capture d'écran 2024-08-11 211833.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 17" />
+                    <img src="images\images-pro-immobilier\Capture d'écran 2024-08-11 211847.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 17" />
+                  </div>
+                  <div class="grid__item">
+                    <h4 class="modal__title h2">Pro Immobilier</h4>
+                    <p>
+                      <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
+                        data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor"
+                          d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z">
+                        </path>
+                      </svg>
+                      <i>Année : 2024</i>
+                    </p>
+                    <p class="category">
+                      <a href="https://lightgrey-quetzal-815688.hostingersite.com/">
+                        <h5>Lien site</h5>
+                      </a>
+                    </p>
+                    <h5 class="h3">Site Marchand : Agence immobilière</h5>
+                    </p>
+
+                    <h5 class="h3">Technologies</h5>
+
+                    <ul>
+                      <li>WordPress</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Carte projet wordpress n°18 -->
+
+        <div class="grid__item">
+          <div class="card" data-category="wordpress">
+            <img src="images\images-habitat-lucratif\Capture d'écran 2024-08-11 212446.png" loading="lazy" width="365"
+              height="243" alt="Projet WordPress 18" class="card__image">
+            <div class="card__inner">
+              <h3 class="card__title">Projet WordPress 18</h3>
+              <p class="category">Site Marchand : Agence immobilière</p>
+            </div>
+            <div class="card__overlay">
+              <a href="#" class="card__link" data-id="modal-118">+</a>
+            </div>
+          </div>
+          <div class="modal" id="modal-118">
+            <button class="modal__close">&times;</button>
+
+            <div class="modal__content">
+              <div class="container">
+                <div class="grid">
+                  <div class="grid__item">
+                    <img src="images\images-habitat-lucratif\Capture d'écran 2024-08-11 212446.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 18" />
+                    <img src="images\images-habitat-lucratif\Capture d'écran 2024-08-11 212459.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 18" />
+                    <img src="images\images-habitat-lucratif\Capture d'écran 2024-08-11 212512.png" loading="lazy"
+                      width="560" height="373" class="card__image" alt="Projet WordPress 18" />
+                  </div>
+                  <div class="grid__item">
+                    <h4 class="modal__title h2">Habitat Lucratif</h4>
+                    <p>
+                      <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
+                        data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor"
+                          d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z">
+                        </path>
+                      </svg>
+                      <i>Année : 2024</i>
+                    </p>
+                    <p class="category">
+                      <a href="https://darkgoldenrod-caribou-346632.hostingersite.com/">
+                        <h5>Lien site</h5>
+                      </a>
+                    </p>
+                    <h5 class="h3">Site Marchand : Agence immobilière</h5>
+                    </p>
+
+                    <h5 class="h3">Technologies</h5>
+
+                    <ul>
+                      <li>WordPress</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Carte projet wordpress n°19 -->
+
+        <div class="grid__item">
+          <div class="card" data-category="wordpress">
+            <img src="images\images-proForm\Capture d'écran 2024-08-11 213043.png" loading="lazy" width="365"
+              height="243" alt="Projet WordPress 19" class="card__image">
+            <div class="card__inner">
+              <h3 class="card__title">Projet WordPress 19</h3>
+              <p class="category">Site Marchand : Formation complète en e-Learning</p>
+            </div>
+            <div class="card__overlay">
+              <a href="#" class="card__link" data-id="modal-119">+</a>
+            </div>
+          </div>
+          <div class="modal" id="modal-119">
+            <button class="modal__close">&times;</button>
+
+            <div class="modal__content">
+              <div class="container">
+                <div class="grid">
+                  <div class="grid__item">
+                    <img src="images\images-proForm\Capture d'écran 2024-08-11 213043.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 19" />
+                    <img src="images\images-proForm\Capture d'écran 2024-08-11 213058.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 19" />
+                    <img src="images\images-proForm\Capture d'écran 2024-08-11 213121.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 19" />
+                  </div>
+                  <div class="grid__item">
+                    <h4 class="modal__title h2">ProForm Online</h4>
+                    <p>
+                      <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
+                        data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor"
+                          d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z">
+                        </path>
+                      </svg>
+                      <i>Année : 2024</i>
+                    </p>
+                    <p class="category">
+                      <a href="https://grey-ant-565986.hostingersite.com/">
+                        <h5>Lien site</h5>
+                      </a>
+                    </p>
+                    <h5 class="h3">Site Marchand : Formation complète en e Learning
+                    </h5>
+                    </p>
+
+                    <h5 class="h3">Technologies</h5>
+
+                    <ul>
+                      <li>WordPress</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Carte projet wordpress n°20 -->
+
+        <div class="grid__item">
+          <div class="card" data-category="wordpress">
+            <img src="images\images-webdev\Capture d'écran 2024-08-11 213652.png" loading="lazy" width="365"
+              height="243" alt="Projet WordPress 20" class="card__image">
+            <div class="card__inner">
+              <h3 class="card__title">Projet WordPress 20</h3>
+              <p class="category">Site Marchand : Formation complète en e-Learning</p>
+            </div>
+            <div class="card__overlay">
+              <a href="#" class="card__link" data-id="modal-120">+</a>
+            </div>
+          </div>
+          <div class="modal" id="modal-120">
+            <button class="modal__close">&times;</button>
+
+            <div class="modal__content">
+              <div class="container">
+                <div class="grid">
+                  <div class="grid__item">
+                    <img src="images\images-webdev\Capture d'écran 2024-08-11 213652.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 20" />
+                    <img src="images\images-webdev\Capture d'écran 2024-08-11 213704.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 20" />
+                    <img src="images\images-webdev\Capture d'écran 2024-08-11 213725.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 20" />
+                    <img src="images\images-webdev\Capture d'écran 2024-08-11 213741.png" loading="lazy" width="560"
+                      height="373" class="card__image" alt="Projet WordPress 20" />
+                  </div>
+                  <div class="grid__item">
+                    <h4 class="modal__title h2">WebDev Essentials</h4>
+                    <p>
+                      <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
+                        data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path fill="currentColor"
+                          d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z">
+                        </path>
+                      </svg>
+                      <i>Année : 2024</i>
+                    </p>
+                    <p class="category">
+                      <a href="https://paleturquoise-flamingo-491373.hostingersite.com/">
+                        <h5>Lien site</h5>
+                      </a>
+                    </p>
+                    <h5 class="h3">Site Marchand : Formation complète en e Learning
+                    </h5>
+                    </p>
+
+                    <h5 class="h3">Technologies</h5>
+
+                    <ul>
+                      <li>WordPress</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
 
 
 
