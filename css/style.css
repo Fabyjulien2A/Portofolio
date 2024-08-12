@@ -43,6 +43,7 @@ h6 {
   border-radius: 5px; /* Arrondi des coins */
   cursor: pointer; /* Curseur pointeur au survol */
   font-size: 16px; /* Taille de la police */
+  border-radius: 10px;
 }
 
 .download-button a {

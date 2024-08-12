@@ -308,9 +308,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-jobMasters\Capture d'écran 2024-08-09 201338.png" loading="lazy" width="365"
-              height="243" alt="Projet WordPress 1" class="card__image">
+              height="243" alt="JobMasters" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 1</h3>
+              <h3 class="card__title">Job Masters</h3>
               <p class="category">Site vitrine d'une agence de recrutement</p>
             </div>
             <div class="card__overlay">
@@ -368,9 +368,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-talentspot\Capture d'écran 2024-08-10 185738.png" loading="lazy" width="365"
-              height="243" alt="Projet WordPress 1" class="card__image">
+              height="243" alt="TalentSpot" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 2</h3>
+              <h3 class="card__title">Talent Spot</h3>
               <p class="category">Site vitrine d'une agence de recrutement</p>
             </div>
             <div class="card__overlay">
@@ -431,9 +431,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-portageExpert\Capture d'écran 2024-08-10 191035.png" loading="lazy" width="365"
-              height="243" alt="Projet WordPress 1" class="card__image">
+              height="243" alt="PortageExpert" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 3</h3>
+              <h3 class="card__title">Portage Expert</h3>
               <p class="category">Site vitrine d'une agence de portage salarial</p>
             </div>
             <div class="card__overlay">
@@ -497,9 +497,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-propartage\Capture d'écran 2024-08-10 192719.png" loading="lazy" width="365"
-              height="243" alt="Projet WordPress 1" class="card__image">
+              height="243" alt="ProPortage" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 4</h3>
+              <h3 class="card__title">Pro Portage</h3>
               <p class="category">Site vitrine d'une agence de portage salarial</p>
             </div>
             <div class="card__overlay">
@@ -562,9 +562,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-corsica-rennovation\Capture d'écran 2024-08-10 193759.png" loading="lazy"
-              width="365" height="243" alt="Projet WordPress 1" class="card__image">
+              width="365" height="243" alt="Corsica rénovation" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 5</h3>
+              <h3 class="card__title">Corsica rénovation</h3>
               <p class="category">Site vitrine d'une entreprise de rénnovation énergertique</p>
             </div>
             <div class="card__overlay">
@@ -633,7 +633,7 @@
             <img src="images\images sud-rennovation\Capture d'écran 2024-08-10 195009.png" loading="lazy" width="365"
               height="243" alt="Projet WordPress 1" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 6</h3>
+              <h3 class="card__title">Sud rénovation</h3>
               <p class="category">Site vitrine d'une entreprise de rénnovation énergertique</p>
             </div>
             <div class="card__overlay">
@@ -699,7 +699,7 @@
             <img src="images\images-immoplus\Capture d'écran 2024-08-10 205731.png" loading="lazy" width="365"
               height="243" alt="Projet WordPress 8" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 7</h3>
+              <h3 class="card__title">Immo Plus</h3>
               <p class="category">Site vitrine marchand de biens immobilier</p>
             </div>
             <div class="card__overlay">
@@ -768,7 +768,7 @@
             <img src="images\photos-avenue-immobilier\Capture d'écran 2024-08-10 201342.png" loading="lazy" width="365"
               height="243" alt="Projet WordPress 8" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 8</h3>
+              <h3 class="card__title">Avenue Immobilier</h3>
               <p class="category">Site vitrine marchand de biens immobilier</p>
             </div>
             <div class="card__overlay">
@@ -835,9 +835,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-horizonimmobilier\Capture d'écran 2024-08-10 213623.png" loading="lazy" width="365"
-              height="243" alt="Projet WordPress 9" class="card__image">
+              height="243" alt="HorizonImmobilier" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 9</h3>
+              <h3 class="card__title">Horizon Immobilier</h3>
               <p class="category">Site vitrine d'une promotion immobiliere</p>
             </div>
             <div class="card__overlay">
@@ -906,7 +906,7 @@
             <img src="images\Immobilier -prestige\Capture d'écran 2024-08-10 213946.png" loading="lazy" width="365"
               height="243" alt="Projet WordPress 9" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 10</h3>
+              <h3 class="card__title">Horizon Immobilier</h3>
               <p class="category">Site vitrine d'une promotion immobiliere</p>
             </div>
             <div class="card__overlay">
@@ -975,7 +975,7 @@
             <img src="images\images-modeElegante\Capture d'écran 2024-08-11 134647.png" loading="lazy" width="365"
               height="243" alt="Projet WordPress 9" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 11</h3>
+              <h3 class="card__title">Mode Elégante</h3>
               <p class="category">Site Marchand : Boutique de vêtements</p>
             </div>
             <div class="card__overlay">
@@ -1036,9 +1036,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-modeEstivale\Capture d'écran 2024-08-11 135728.png" loading="lazy" width="365"
-              height="243" alt="Projet WordPress 9" class="card__image">
+              height="243" alt="ModeEstivale" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 12</h3>
+              <h3 class="card__title">Mode Estivale</h3>
               <p class="category">Site Marchand : Boutique de vêtements</p>
             </div>
             <div class="card__overlay">
@@ -1096,9 +1096,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\image-emeraude\Capture d'écran 2024-08-11 204044.png" loading="lazy" width="365"
-              height="243" alt="Projet WordPress 13" class="card__image">
+              height="243" alt="Elegance Emeraude" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 13</h3>
+              <h3 class="card__title">Elegance Emeraude</h3>
               <p class="category">Site Marchand : Hotel </p>
             </div>
             <div class="card__overlay">
@@ -1159,7 +1159,7 @@
             <img src="images\images-luxe-et-confort\Capture d'écran 2024-08-11 204549.png" loading="lazy" width="365"
               height="243" alt="Projet WordPress 14" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 14</h3>
+              <h3 class="card__title">Luxe et Confort</h3>
               <p class="category">Site Marchand : Hotel </p>
             </div>
             <div class="card__overlay">
@@ -1217,9 +1217,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-restaurant-artiste\Capture d'écran 2024-08-11 210035.png" loading="lazy" width="365"
-              height="243" alt="Projet WordPress 15" class="card__image">
+              height="243" alt="La table des artistes" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 15</h3>
+              <h3 class="card__title">La table des artistes</h3>
               <p class="category">Site Marchand : Restaurant</p>
             </div>
             <div class="card__overlay">
@@ -1277,9 +1277,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-restaurant-epicurienne\Capture d'écran 2024-08-11 210759.png" loading="lazy"
-              width="365" height="243" alt="Projet WordPress 16" class="card__image">
+              width="365" height="243" alt="La Table Epicurienne" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 16</h3>
+              <h3 class="card__title">La Table Epicurienne</h3>
               <p class="category">Site Marchand : Restaurant</p>
             </div>
             <div class="card__overlay">
@@ -1339,9 +1339,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-pro-immobilier\Capture d'écran 2024-08-11 211745.png" loading="lazy" width="365"
-              height="243" alt="Projet WordPress 17" class="card__image">
+              height="243" alt="Pro Immobilier" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 17</h3>
+              <h3 class="card__title">Pro Immobilier</h3>
               <p class="category">Site Marchand : Agence immobilière</p>
             </div>
             <div class="card__overlay">
@@ -1403,9 +1403,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-habitat-lucratif\Capture d'écran 2024-08-11 212446.png" loading="lazy" width="365"
-              height="243" alt="Projet WordPress 18" class="card__image">
+              height="243" alt="Habitat Lucratif" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 18</h3>
+              <h3 class="card__title">Habitat Lucratif</h3>
               <p class="category">Site Marchand : Agence immobilière</p>
             </div>
             <div class="card__overlay">
@@ -1465,7 +1465,7 @@
             <img src="images\images-proForm\Capture d'écran 2024-08-11 213043.png" loading="lazy" width="365"
               height="243" alt="Projet WordPress 19" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 19</h3>
+              <h3 class="card__title">ProForm Online</h3>
               <p class="category">Site Marchand : Formation complète en e-Learning</p>
             </div>
             <div class="card__overlay">
@@ -1524,9 +1524,9 @@
         <div class="grid__item">
           <div class="card" data-category="wordpress">
             <img src="images\images-webdev\Capture d'écran 2024-08-11 213652.png" loading="lazy" width="365"
-              height="243" alt="Projet WordPress 20" class="card__image">
+              height="243" alt="WebDev Essentials" class="card__image">
             <div class="card__inner">
-              <h3 class="card__title">Projet WordPress 20</h3>
+              <h3 class="card__title">WebDev Essentials</h3>
               <p class="category">Site Marchand : Formation complète en e-Learning</p>
             </div>
             <div class="card__overlay">
