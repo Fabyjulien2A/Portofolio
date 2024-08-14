@@ -330,7 +330,7 @@
                       height="373" class="card__image" alt="Projet WordPress 1" />
                   </div>
                   <div class="grid__item">
-                    <h4 class="modal__title h2">JobMasters</h4>
+                    <h4 class="modal__title h2">Job Masters</h4>
                     <p>
                       <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
                         data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
@@ -392,7 +392,7 @@
                       height="373" class="card__image" alt="Projet WordPress 2" />
                   </div>
                   <div class="grid__item">
-                    <h4 class="modal__title h2">TalentSpot</h4>
+                    <h4 class="modal__title h2">Talent Spot</h4>
                     <p>
                       <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
                         data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
@@ -459,7 +459,7 @@
 
                   </div>
                   <div class="grid__item">
-                    <h4 class="modal__title h2">PortageExpert</h4>
+                    <h4 class="modal__title h2">Portage Expert</h4>
                     <p>
                       <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
                         data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
@@ -524,7 +524,7 @@
 
                   </div>
                   <div class="grid__item">
-                    <h4 class="modal__title h2">ProPortage</h4>
+                    <h4 class="modal__title h2">Pro Portage</h4>
                     <p>
                       <svg width="15" height="15" aria-hidden="true" focusable="false" data-prefix="far"
                         data-icon="calendar" class="svg-inline--fa fa-calendar fa-w-14" role="img"
