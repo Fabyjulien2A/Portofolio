@@ -298,7 +298,7 @@
   <section id="portfolio-nocode" class="portfolio">
     <div class="container">
       <div class="section-header">
-        <h2 class="section-title">Mes projets no-code (WordPress)</h2>
+        <h2 class="section-title">Mes projets WordPress</h2>
       </div>
       <ul class="grid portfolio-filters list-unstyled">
       </ul>
