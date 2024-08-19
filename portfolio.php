@@ -342,7 +342,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://aqua-alpaca-601592.hostingersite.com/">
+                      <a href="https://aqua-alpaca-601592.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -404,7 +404,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://palegreen-stinkbug-767257.hostingersite.com/">
+                      <a href="https://palegreen-stinkbug-767257.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -471,7 +471,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://limegreen-mosquito-586363.hostingersite.com/">
+                      <a href="https://limegreen-mosquito-586363.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -536,7 +536,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://linen-partridge-230513.hostingersite.com/">
+                      <a href="https://linen-partridge-230513.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -604,7 +604,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://darkslateblue-raven-978469.hostingersite.com/">
+                      <a href="https://darkslateblue-raven-978469.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -671,7 +671,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://skyblue-hare-309082.hostingersite.com/">
+                      <a href="https://skyblue-hare-309082.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -740,7 +740,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://salmon-termite-264732.hostingersite.com/">
+                      <a href="https://salmon-termite-264732.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -809,7 +809,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://darkgrey-pheasant-427881.hostingersite.com/accueil/">
+                      <a href="https://darkgrey-pheasant-427881.hostingersite.com/accueil/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -878,7 +878,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://lightslategrey-rat-675736.hostingersite.com/">
+                      <a href="https://lightslategrey-rat-675736.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -947,7 +947,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://orchid-nightingale-571151.hostingersite.com/">
+                      <a href="https://orchid-nightingale-571151.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -1012,7 +1012,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://darkblue-chinchilla-582008.hostingersite.com/">
+                      <a href="https://darkblue-chinchilla-582008.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -1072,7 +1072,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://skyblue-alligator-346835.hostingersite.com/">
+                      <a href="https://skyblue-alligator-346835.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -1132,7 +1132,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://yellowgreen-porcupine-662594.hostingersite.com/">
+                      <a href="https://yellowgreen-porcupine-662594.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -1193,7 +1193,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://springgreen-starling-598938.hostingersite.com/">
+                      <a href="https://springgreen-starling-598938.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -1253,7 +1253,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://blanchedalmond-flamingo-515787.hostingersite.com/">
+                      <a href="https://blanchedalmond-flamingo-515787.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -1315,7 +1315,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://firebrick-cattle-888553.hostingersite.com/ ">
+                      <a href="https://firebrick-cattle-888553.hostingersite.com/ " target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -1379,7 +1379,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://lightgrey-quetzal-815688.hostingersite.com/">
+                      <a href="https://lightgrey-quetzal-815688.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -1439,7 +1439,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://darkgoldenrod-caribou-346632.hostingersite.com/">
+                      <a href="https://darkgoldenrod-caribou-346632.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -1499,7 +1499,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://grey-ant-565986.hostingersite.com/">
+                      <a href="https://grey-ant-565986.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -1562,7 +1562,7 @@
                       <i>Année : 2024</i>
                     </p>
                     <p class="category">
-                      <a href="https://paleturquoise-flamingo-491373.hostingersite.com/">
+                      <a href="https://paleturquoise-flamingo-491373.hostingersite.com/" target="_blank">
                         <h5>Lien site</h5>
                       </a>
                     </p>
@@ -1583,12 +1583,7 @@
         </div>
 
 
-
-
-
-
-
-        <!-- Ajoutez plus de cartes de projet WordPress selon vos besoins -->
+        <!-- futurs projet wordpress... -->
       </div>
     </div>
   </section>
