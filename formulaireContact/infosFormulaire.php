@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">   
-    <title>Commentaires</title>
+    <title>Messages</title>
     <link rel="stylesheet" href="../css/admin.css">
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center mt-4">Informations formulaire de contact</h1>  
+        <h1 class="text-center mt-4">Messages formulaire de contact</h1>  
     </div>
 
     <div class="container">

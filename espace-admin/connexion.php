@@ -41,7 +41,7 @@ if (isset($_POST['connexion'])) {
     <meta charset="UTF-8">
     <link rel="stylesheet" href="../css/admin.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <title>Espace de connexion Admin</title>
+    <title>Mon espace</title>
 </head>
 <body class="body-connexion">
 <div class="container-fluid">

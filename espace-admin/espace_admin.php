@@ -19,9 +19,10 @@ if (!$_SESSION['mdp']){
 <body class="body-admin">
     <div class="container-fluid">
     <h1 class="text-center mt-4">Mon espace</h1>
+    <br>
         <div class="row justify-content-center">
             <div class="col-md-6">
-            <a href="../formulaireContact/infosFormulaire.php"><button class="btn btn-primary btn-block mb-3">Infos formulaire de contact</button></a>
+            <a href="../formulaireContact/infosFormulaire.php"><button class="btn btn-primary btn-block mb-3">Mes messages</button></a>
             </div>
 
             <div class="row justify-content-center">
