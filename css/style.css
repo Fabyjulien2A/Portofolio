@@ -822,3 +822,110 @@ footer .socials a:hover {
     grid-area: sidebar;
   }
 }
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate {
+  animation: fadeInUp 1s ease-out both;
+}
+
+/* Hero section */
+.hero .title {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.hero .subtitle {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+.download-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #0077cc;
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.download-button:hover {
+  background-color: #005fa3;
+}
+
+/* À propos */
+.about p {
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Compétences logo */
+.skills-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.logo-competences {
+  width: 80px;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.logo-competences:hover {
+  transform: scale(1.1);
+}
+
+/* Responsive hero */
+@media screen and (max-width: 768px) {
+  .hero .grid {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+
+  .img-header {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+}
+
+
+.availability-banner {
+  background-color: #0077cc;
+  color: white;
+  text-align: center;
+  padding: 18px 25px; /* plus d'espace */
+  font-weight: 600;
+  font-size: 1.2rem; /* texte plus grand */
+  line-height: 1.6;
+  z-index: 1000;
+}
+
+.availability-banner a {
+  color: #ffdd57;
+  text-decoration: underline;
+  font-weight: bold;
+  margin-left: 10px;
+  transition: color 0.3s;
+}
+
+.availability-banner a:hover {
+  color: #ffffff;
+}
