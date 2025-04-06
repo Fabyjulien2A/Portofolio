@@ -106,8 +106,6 @@
         <img class="logo-competences" src="images/icones/icons8-php-80.png" alt="PHP">
         <img class="logo-competences" src="images/icones/icons8-laravel-96.png" alt="Laravel">
         <img class="logo-competences" src="images/icones/icons8-mysql-96.png" alt="MySQL">
-        <img class="logo-competences" src="images/icones/icons8-maria-db-96.png" alt="MariaDB">
-        <img class="logo-competences" src="images/icones/icons8-mongodb-96.png" alt="MongoDB">
         <img class="logo-competences" src="images/icones/icons8-wordpress-94.png" alt="WordPress">
       </div>
     </div>
