@@ -994,3 +994,54 @@ footer .socials a:hover {
     transform: translateY(0);
   }
 }
+
+@media screen and (max-width: 768px) {
+  .grid {
+    flex-direction: column;
+  }
+
+  .grid__item {
+    max-width: 100% !important;
+  }
+
+  .portfolio .grid__item,
+  .portfolio-filters .grid__item {
+    max-width: 100%;
+    padding: 1rem 0;
+  }
+
+  .portfolio-filters a {
+    font-size: 1.4rem;
+    padding: 1rem;
+  }
+
+  .hero__item {
+    text-align: center;
+    align-items: center;
+  }
+
+  .hero .title {
+    font-size: 3rem;
+  }
+
+  .hero__avatar img {
+    max-width: 250px;
+  }
+
+  .skills li {
+    padding: 1rem;
+    font-size: 1.4rem;
+  }
+
+  .skills .bar {
+    padding: 0.8rem;
+  }
+
+  .download-button {
+    display: block;
+    margin: 2rem auto;
+    text-align: center;
+  }
+}
+
+

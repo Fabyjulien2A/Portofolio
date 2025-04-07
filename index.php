@@ -61,7 +61,7 @@
       <div class="grid">
         <div class="hero__item left">
         <h1 class="title animate">Bonjour, je suis Julien Faby</h1>
-        <p class="subtitle animate">Développeur Web junior – Freelance & ouvert aux opportunités en CDI</p>
+        <p class="subtitle typing">Développeur Web junior – Freelance & ouvert aux opportunités en CDI</p>
         <a href="downloads/CV-Faby_Julien.pdf" class="download-button animate" download>Télécharger mon CV</a>
         </div>
         <div class="hero__item right">
