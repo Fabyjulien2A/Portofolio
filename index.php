@@ -121,7 +121,6 @@
       </div>
     </div>
   </section>
-
   <section id="about" class="about">
     <div class="container">
       <div class="grid">
@@ -133,7 +132,7 @@
           <h3>Qui suis-je ?</h3>
           <p>
             Je m'appelle <strong>Julien Faby</strong>, développeur web passionné par la création de solutions numériques efficaces, esthétiques et accessibles. 
-            Diplômé en développement web et web mobile, j’ai fondé <strong>Corsica Faby Design</strong> pour accompagner les entrepreneurs, TPE/PME et associations dans leur transition numérique.
+            Diplômé en développement web et web mobile, j’ai fondé <a href="https://www.corsicafabydesign.fr/" target="_blank" rel="noopener noreferrer"><strong>Corsica Faby Design</strong></a> pour accompagner les entrepreneurs, TPE/PME et associations dans leur transition numérique.
           </p>
           <p>
             Mon travail repose sur l’écoute, l’adaptabilité et la qualité. Je propose des <strong>sites vitrines</strong>, des <strong>boutiques en ligne</strong> et des prestations de <strong>maintenance web</strong>, le tout sur mesure selon les besoins du client.

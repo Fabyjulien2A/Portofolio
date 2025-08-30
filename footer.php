@@ -4,7 +4,7 @@
       <div class="grid__item">
       </div>
       <div class="grid__item">
-        <p>Copyright © 2024.</p>
+        <p>&copy; <?php echo date('Y'); ?> Julien Faby. Tous droits réservés.</p>
       </div>
     </div>
   </div>
